@@ -1,0 +1,35 @@
+# California Housing Exploratory Data Analysis
+
+This project is designed to perform exploratory data analysis (EDA) on the California Housing dataset. It provides various operations to analyze, visualize, and summarize the data to gain insights into the housing trends in California.
+
+# Features
+
+- Print Data Summary: Display basic information about the dataset such as the number of rows, columns, and data size.
+
+- Perform Statistical Operations: Calculate statistical metrics (mean, median, standard deviation, min, max) for each      numerical column in the dataset.
+
+- Plot Histogram: Visualize the distribution of 'Total Rooms' and 'Total Bedrooms' using histograms.
+
+- Plot Scatter Plot: Generate a scatter plot to explore the relationship between 'Total Rooms' and 'Median House Value'.
+
+- Plot Violin Plot: Display a violin plot to visualize the distribution of 'Housing Median Age'.
+
+- Plot Box Plot: Generate a box plot to analyze the distribution of numerical columns in the dataset.
+
+# Requirements
+
+- Python 3.6+
+- NumPy
+- Matplotlib
+
+# Run the program 
+
+- python main.py
+
+# Follow the On-Screen Instructions:
+
+- Upon running the program, you will be prompted with a menu of operations.
+
+- Choose an option by entering the corresponding number and press Enter.
+
+- Follow the instructions to view summaries, perform analyses, and visualize data.
